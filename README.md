@@ -1,66 +1,69 @@
-<p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center"><a href="#"><img title="b11" src="https://user-images.githubusercontent.com/64999484/89707580-4f2c2580-d991-11ea-8960-3c6f9e46765f.png"></a>
-<p align="center"><a href="https://github.com/bootolvau"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Vau-red.svg?style=for-the-badge&logo=github"></a></p>
-<p align="center"><a href="https://github.com/botolvau/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
-
-<h1 align="center">BPAT v1.0</h1>
 <p align="center">
-      A new android pattern lock phishing tool for termux users
+<a href="https://bit.ly/3jLqF1P"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://bit.ly/3jLqF1P"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-Blurforce--Abm-green.svg"></a>
+<a href="https://bit.ly/3jLqF1P"><img title="Version" src="https://img.shields.io/badge/Version-3.0-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
-## 🔍 ***About BPAT***:
 
-BPAT is a bash based script. You can generate pattern phishing tool using this tools. which can hack victim mobile pattern. This tool works on both rooted Android device and Non-rooted Android device.
 
-## Installation :
+## Note
+<p align="center">
+
+Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
+I hope you understand my bad language 3:)
+
+
+
+## Script run on termux or linux 
+```  
+pkg update
+pkg upgrade
+pkg install python2 -y
+pkg install git -y
+rm -rf Blueforce_Abm
+git clone https://github.com/mrperfect0056
+cd Blueforce_Abm
+pip2 install mechanize
+pip2 install requests
+pip2 install nodejs 
+pip2 install npm 
+pip2 install requests bs4
+python2 blueforce.indirect
 ```
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pkg install git
-$ pkg install php
-$ pkg install openssh
-$ pkg install pip
-$ pkg install pip2
-$ pip install lolcat
-$ pip2 install wget
-$ pip2 install mechanize
-$ pip2 install requests
-$ git clone https://github.com/botolvau/bpat
+## Tool User And Pass
+```  
+➤ Username : Abm
+➤ Password : Abm 
 ```
-
-## Tools Run :
+## Option
+```  
+> login with token
+> login with password
+> without login Ph.nbr cloning
+> Without login Search name cloning
+> clone friendlist
+> clone public ID
+> clone Follwors ID
+> Abm-Token 
 ```
-$ ls && cd bpat && ls
-$ bash bpat.sh
+## available on
+```  
+➤ termux
+➤ linux
 ```
+## Author
 
-* Now you need internet connection to continue further process and Turn on your device hotspot to get link...
+```
+Alone codder : Dark-Hacker
+```
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-* You will recieve patter pin. you can see pattern with numbers
-
-* You can select any option by clicking on your keyboard
-
-* Note:- Don't delete any of the scripts included in core files
-
-## 📌 ***Screenshot*** :
-![IMG_20200410_101025](https://user-images.githubusercontent.com/49580304/78963074-e1233f00-7b13-11ea-97e9-b9d79412fb55.jpg)"
-
-![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
-
-## ***Follow Me***
-
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](http://www.mastertrick.design)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
-* GitHub : [Follow Me](https://www.github.com/Botolvau)
-
-### Warning
-
-***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+## Follows us on social media
+  
+<p align="center">
+<a href="https://fb.com/darkhacker07"><img title="Facebook" src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.instagram.com/mrperfect5744"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-orange?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/mrperfect0056"><img title="Github" src="https://img.shields.io/badge/Github-Dark-Hacker-green?style=for-the-badge&logo=github"></a>
