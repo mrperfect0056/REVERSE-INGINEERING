@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://bit.ly/3jLqF1P"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/3jLqF1P"><img title="Made in Devil City" src="https://img.shields.io/badge/MADE%20IN-Devil City-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3jLqF1P"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-Blurforce--Abm-green.svg"></a>
+<a href="https://bit.ly/3jLqF1P"><img title="Made in Devil City" src="https://img.shields.io/badge/Tool-Dark--Tools-green.svg"></a>
 <a href="https://bit.ly/3jLqF1P"><img title="Version" src="https://img.shields.io/badge/Version-3.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
@@ -23,8 +23,8 @@ pkg upgrade
 pkg install python2 -y
 pkg install git -y
 rm -rf Blueforce_Abm
-git clone https://github.com/mrperfect0056
-cd Blueforce_Abm
+git clone https://github.com/mrperfect0056/REVERSE-INGINEERING.git
+cd RECERSE-INGINEERING
 pip2 install mechanize
 pip2 install requests
 pip2 install nodejs 
@@ -34,8 +34,8 @@ python2 blueforce.indirect
 ```
 ## Tool User And Pass
 ```  
-➤ Username : Abm
-➤ Password : Abm 
+➤ Username :Dark
+➤ Password :Hacker
 ```
 ## Option
 ```  
@@ -65,5 +65,5 @@ Alone codder : Dark-Hacker
   
 <p align="center">
 <a href="https://fb.com/darkhacker07"><img title="Facebook" src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.instagram.com/mrperfect5744"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-orange?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/devil.0.007"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://github.com/mrperfect0056"><img title="Github" src="https://img.shields.io/badge/Github-Dark-Hacker-green?style=for-the-badge&logo=github"></a>
